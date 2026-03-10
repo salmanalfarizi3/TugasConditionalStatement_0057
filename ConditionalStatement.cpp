@@ -28,3 +28,7 @@ string cekStatus(float bmi) {
     }
 }
 
+int main() {
+    float berat, tinggi, bmi;
+
+    
